@@ -1,0 +1,80 @@
+
+
+
+/* h1 {
+  text-align: center;
+  margin-bottom: 80px;
+} 
+body {
+background-image: url(https://plus.unsplash.com/premium_photo-1673306778968-5aab577a7365?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+background-position: center;
+} 
+
+
+.button {
+  margin: 15px;
+  font-size: 20px;
+  color: brown;
+  background-color: beige;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 10px;
+} */
+
+/* .container {
+  border: 3px solid #fb6161;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+  border-radius: 20px;
+} */
+
+/* .type {
+  color: blue;
+  color: red !important;
+  color: black;
+} */
+/* 
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+} */
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+body {
+  background-image: url(https://cdn.dribbble.com/userupload/12306702/file/original-54ef81bd1dcb84a00c4f090d988f0c2e.jpg?resize=1504x1128);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card{
+    background: linear-gradient(300deg, 	#4169E1 ,#ffffff );
+    border: none;
+}
+
+
+.txt{
+    color: #4169E1;
+    font-family: popp;
+}
